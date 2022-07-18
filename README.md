@@ -6,13 +6,19 @@ Two tasks were used to assess performance and neural communication during minima
 
 Participants are instructed to fixate their eyes on a black cross presented on a screen during MEG recording. The black fixation cross is replaced by a green arrow pointing to the right. The arrow is accompanied by a static visual contrast grating in the lower left visual field to localize visual evoked responses to the right visual cortex. The location and dimensions of this contrast grating have been shown to elicit a strong visual evoked field in the right visual cortex at ~75ms following stimulus onset (Koelewijn et al. 2011). Participants are instructed to push a button with the thumb of their right hand as soon as the arrow appears. In the other condition, participants perform the same procedure with only two differences: the arrow now points to the left and they are instructed to push a button with the thumb of their left hand. Participants complete 100 trials of each condition. 
 
-### Instruction slides
-
 ## Choice reaction time task (~12 min)
 
 The fixation cross is randomly replaced with a green arrow pointing either left or right accompanied by a static visual contrast grating. Participants are instructed to press the corresponding left or right button as quickly as possible in response to the presentation of the green arrow. Participants complete 100 left arrow and 100 right arrow trials. 
 
 ### Instruction slides
+
+| Simple-go left | Simple-go right | Choice |
+| -- | -- | -- |
+| <img style="float: left;" src="/instruction_slides/Slide1.JPG"> | <img style="float: left;" src="/instruction_slides/Slide6.JPG"> | <img style="float: left;" src="/instruction_slides/Slide11.JPG"> |
+| <img style="float: left;" src="/instruction_slides/Slide2.JPG"> | <img style="float: left;" src="/instruction_slides/Slide7.JPG"> | <img style="float: left;" src="/instruction_slides/Slide12.JPG"> |
+| <img style="float: left;" src="/instruction_slides/Slide3.JPG"> | <img style="float: left;" src="/instruction_slides/Slide8.JPG"> | <img style="float: left;" src="/instruction_slides/Slide13.JPG"> |
+| <img style="float: left;" src="/instruction_slides/Slide4.JPG"> | <img style="float: left;" src="/instruction_slides/Slide9.JPG"> | <img style="float: left;" src="/instruction_slides/Slide14.JPG"> |
+| <img style="float: left;" src="/instruction_slides/Slide5.JPG"> | <img style="float: left;" src="/instruction_slides/Slide10.JPG"> | <img style="float: left;" src="/instruction_slides/Slide15.JPG"> |
 
 ## Task parameters
 
