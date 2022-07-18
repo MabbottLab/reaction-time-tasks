@@ -12,7 +12,7 @@ The fixation cross is randomly replaced with a green arrow pointing either left 
 
 ### Instruction slides
 
-| Simple-go left | Simple-go right | Choice |
+| Simple-go right | Simple-go left | Choice |
 | -- | -- | -- |
 | <img style="float: left;" src="/instruction_slides/Slide1.JPG"> | <img style="float: left;" src="/instruction_slides/Slide6.JPG"> | <img style="float: left;" src="/instruction_slides/Slide11.JPG"> |
 | <img style="float: left;" src="/instruction_slides/Slide2.JPG"> | <img style="float: left;" src="/instruction_slides/Slide7.JPG"> | <img style="float: left;" src="/instruction_slides/Slide12.JPG"> |
