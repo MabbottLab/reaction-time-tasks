@@ -1,5 +1,8 @@
 # MEG Reaction Time Tasks
 
+The following repo documents the MEG tasks analyzed for the manuscript:
+Cox. E., Tseng, J., Bells, S., Dockstader, C., Bouffet, E., … Mabbott, D. J. Neural and cognitive function in a pediatric brain injury model: the impact of task complexity.
+
 Two tasks were used to assess performance and neural communication during minimal and higher task load during magnetoencephalography (MEG) recording. Minimal task load was assessed using a simple-go reaction time task involving two conditions higher task load was assessed using a choice reaction time task. Presentation order of tasks and conditions was counterbalanced across participants. 
 
 ## Simple-go reaction time task (~8 min)
